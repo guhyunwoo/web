@@ -1,10 +1,13 @@
+!
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset="utf-8">
     <title>범어위키</title>
 </head>
 
 <body>
+  <div>
     <img src="C:\Users\sk010\Desktop\추정우.jpg" alt="추정우" width="160px" alt="추정우">
     <img src="C:\Users\sk010\Desktop\KakaoTalk_20240307_202019445_12.jpg" width="160px" alt="추정우">
     <br>
@@ -18,6 +21,7 @@
     <hr>
     <ul>
         <li>추정우는 부산 미용고에서 온 누나의 치마밑을 엿보기 위해 허리를 숙여 본 적이 있다.</li><br>
+        <li>한 번씩 분노 조절 장애(on/off)가 켜지기도 한다.</li>
         <li>점심시간에 동급생 여자애들을 보고 "보라탕년들"이라고 외쳤다.</li><br>
         <li>지나가는 여자를 보며 자신만의 등급을 부여하였다.</li><br>
         <li>1학년 때 앉아있는 여자아이의 치마를 뚫어지게 쳐다보았다.</li><br>
@@ -27,7 +31,9 @@
         <li>수업 시간중 불법 영화 유포 사이트에서 영화를 시청하였다.</li><br>
         <li>김수환과 함께 수업 시간중 음란물을 시청하였다.</li>
     </ul>
+  </div>
     <hr>
+  <div>
   <Img src="C:\Users\sk010\Desktop\kim&choo.png" width="200px" alt="김수환">
   <br>  
   <h1>김수환</h1>
@@ -49,8 +55,13 @@
         <li>학교 건물의 콘크리트를 숟가락으로 부숴서 갉아내었다.</li><br>
         <li>학교에서 지원받은 노트북 충전기의 전기 피복을 벗겨내 종이에 불을 붙였다.</li><br>
         <li>청소기를 분해해 모터만 남겨둔뒤 드릴로 사용해 학교 콘크리트를 박살냈다.</li>
-    </ul>
+        <li>평소 이정현을 흠모하며 짝사랑만 3년째 이어지고 있다.</li>
+        <li>곧 사랑의 결실이 맺어질 것만 같다.</li>
+        <li>결혼해라</li>
+  </ul>
+  </div>
     <hr>
+  <div>
     <Img src="C:\Users\sk010\Desktop\이정민.jpg" width="240px" alt="이정민">
     <h1>이정민</h1>
     <hr3><img src="C:\Users\sk010\Desktop\clip1710152310121.png" width="20px">
@@ -71,6 +82,30 @@
         <li>주인이 있는 킥보드를 훔쳐서 탄 후 숲에 버린 전적이 있다.</li><br>
         <li>사실적시 명예훼손을 자주 한다.</li>
     </ul>
-
+  </div>
+  <hr>
+  <div>
+    <Img src="C:\Users\sk010\Desktop\임규현.jpg" width="240px" alt="임규현">
+    <h1>임규현</h1>
+    
+    <hr3><img src="C:\Users\sk010\Desktop\clip1710152310121.png" width="20px">
+    <a href="https://www.instagram.com/hyeon_0627/"> 임규현 인스타</a></h3>
+    <hr>
+    <h2>1. 개요</h2>
+    <hr>
+    <hr>
+    
+    <h2>2. 임규현의 범죄이력</h2>
+    <hr>
+    <ul>
+      <li>교내나 교외의 여학생들의 마음을 불태운다.</li><br>
+      <li>한번씩 <b>추정우</b>를 폭행할 때가 있다.</li><br>
+      <li>어쩌다 한번씩 성희롱을 하거나 몸매 평가를 하기도 한다.</li><br>
+      <li>교내 남성들의 마음을 훔치기도 한다.</li><br>
+      <li>무단횡단을 깔쌈하게 하신다.</li><br>
+      <li><b>이정민,김수환</b>과 참새미 축제 부스비를 횡령하였다.</li><br>
+      <li>그는 소주 2병 반을 빨고도 제정신을 유지하였다.</li>
+    </ul>
+  </div>
 </body>
 </html>
