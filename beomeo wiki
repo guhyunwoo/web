@@ -8,10 +8,10 @@
 
 <body>
   <div>
-    <img src="https://github.com/guhyunwoo/web/blob/main/%EC%B6%94%EC%A0%95%EC%9A%B0.jpg?raw=true" alt="추정우" width="160px" alt="추정우">
+    <img src="https://github.com/guhyunwoo/web/blob/main/%EC%B6%94%EC%A0%95%EC%9A%B0.jpg?raw=true" alt="추정우" width="160px" alt="추정우"><!--프로필 이미지-->
     <h1>추정우</h1>
-    <hr3><img src="C:\Users\sk010\Desktop\clip1710152310121.png" width="20px">
-    <a href="https://www.instagram.com/choo._.08/"> 추정우 인스타</a></h3>
+    <p><img src="https://github.com/guhyunwoo/web/blob/main/clip1710152310121.png?raw=true" width="20px"> <!-- 인스타그램 이미지--> 
+    <a href="https://www.instagram.com/choo._.08/"> 추정우 인스타</a></p>
     <hr>
     <h2>1. 개요</h2>
     <hr>
@@ -32,11 +32,11 @@
   </div>
     <hr>
   <div>
-  <Img src="https://github.com/guhyunwoo/web/blob/main/kim&choo.png?raw=true" width="200px" alt="김수환">
+  <Img src="https://github.com/guhyunwoo/web/blob/main/kim&choo.png?raw=true" width="200px" alt="김수환"><!--프로필 이미지-->
   <br>  
   <h1>김수환</h1>
-  <hr3><img src="https://github.com/guhyunwoo/web/blob/main/kim&choo.png?raw=true" width="20px">
-  <a href="https://www.instagram.com/kimsou._.08/"> 김수환 인스타</a></h3>
+  <p><img src="https://github.com/guhyunwoo/web/blob/main/clip1710152310121.png?raw=true" width="20px"><!-- 인스타그램 이미지--> 
+  <a href="https://www.instagram.com/kimsou._.08/"> 김수환 인스타</a></p>
   <hr>
     <h2>1. 개요</h2>
     
@@ -53,15 +53,14 @@
         <li>학교 건물의 콘크리트를 숟가락으로 부숴서 갉아내었다.</li><br>
         <li>학교에서 지원받은 노트북 충전기의 전기 피복을 벗겨내 종이에 불을 붙였다.</li><br>
         <li>청소기를 분해해 모터만 남겨둔뒤 드릴로 사용해 학교 콘크리트를 박살냈다.</li>
-        <li>평소 이정현을 흠모하며 짝사랑만 3년째 이어지고 있다.</li>
   </ul>
   </div>
     <hr>
   <div>
-    <Img src="https://github.com/guhyunwoo/web/blob/main/%EC%9D%B4%EC%A0%95%EB%AF%BC.jpg?raw=true" width="240px" alt="이정민">
+    <Img src="https://github.com/guhyunwoo/web/blob/main/%EC%9D%B4%EC%A0%95%EB%AF%BC.jpg?raw=true" width="240px" alt="이정민"><!--프로필 이미지-->
     <h1>이정민</h1>
-    <hr3><img src="C:\Users\sk010\Desktop\clip1710152310121.png" width="20px">
-    <a href="https://www.instagram.com/jungmin_0929/"> 이정민 인스타</a></h3>
+    <p><img src="https://github.com/guhyunwoo/web/blob/main/clip1710152310121.png?raw=true" width="20px"><!-- 인스타그램 이미지--> 
+    <a href="https://www.instagram.com/jungmin_0929/"> 이정민 인스타</a></p>
     <hr>
     <h2>1. 개요</h2>
     <hr>
@@ -81,10 +80,10 @@
   </div>
   <hr>
   <div>
-<Img src="https://github.com/guhyunwoo/web/blob/main/%EC%9E%84%EA%B7%9C%ED%98%84.jpg?raw=true" width="240px" alt="임규현">
+<Img src="https://github.com/guhyunwoo/web/blob/main/%EC%9E%84%EA%B7%9C%ED%98%84.jpg?raw=true" width="240px" alt="임규현"><!--프로필 이미지--> 
     <h1>임규현</h1>
-    <h3><img src="C:\Users\sk010\Desktop\clip1710152310121.png" width="20px">
-    <a href="https://www.instagram.com/jungmin_0929/">임규현 인스타</a></h3>
+    <p><img src="https://github.com/guhyunwoo/web/blob/main/clip1710152310121.png?raw=true" width="20px"><!-- 인스타그램 이미지--> 
+    <a href="https://www.instagram.com/hyeon_0627/"> 임규현 인스타</a></p>
     <h2>1. 개요</h2>
     <hr>    
     <h2>2. 임규현의 범죄이력</h2>
